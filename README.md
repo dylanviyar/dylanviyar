@@ -31,5 +31,5 @@ Here are some ideas to get you started:
 
 ## Lets Connect! 💫
 - dviyar@ucsd.edu
-- LinkedIn: linkhere
+- [LinkedIn](https://www.linkedin.com/in/dylan-viyar-79a132230/)
 
