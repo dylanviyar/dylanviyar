@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 - Excel/Sheets
 - Tableau
 - R
+- Python
 
 ## My Projects ✅
 - View some of my completed work _here_
