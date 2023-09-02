@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## About Me 👋🏽
 - Beginning my journey in analytics, data viz and data-driven decision making
 - Graduated June 2023 from University of California, San Diego with a B.S in Applied Mathematics
-- Favorite part of data analysis is feeling like a detective searching for a "big aha" moment in data exploration!
+- My favorite part of data analysis is feeling like a detective searching for a "big aha" moment in data exploration!
 
 ## My Toolbox 🧰
 - SQL
