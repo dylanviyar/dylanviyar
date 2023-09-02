@@ -14,3 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## About Me! 👋🏽
+- Beginning my journey in analytics, data viz and data-driven decision making
+- Graduated June 2023 from University of California, San Diego with a B.S in Applied Mathematics
+- Favorite part of data analysis is feeling like a detective searching for a "big aha" moment in data exploration!
+
+## My Toolbox 🧰
+- SQL
+- Excel/Sheets
+- Tableau
+- R
+
+## My Projects ✅
+- View some of my completed work _here_
+
+## Lets Connect! 💫
+- dviyar@ucsd.edu
+- LinkedIn: linkhere
+
