@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 ## My Projects ✅
 - View some of my completed work _here_
 
-## Lets Connect! 💫
+## Let's Connect! 💫
 - dviyar@ucsd.edu
 - [LinkedIn](https://www.linkedin.com/in/dylan-viyar-79a132230/)
 
