@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 - Python
 
 ## My Projects ✅
-- View some of my completed work _here_
+- View some of my completed work [here](https://github.com/dylanviyar/My-Portfolio)
 
 ## Let's Connect! 💫
 - dviyar@ucsd.edu
