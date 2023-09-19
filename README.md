@@ -1,6 +1,6 @@
 
 
-![Dylan Viyar Blue Header](https://github.com/dylanviyar/dylanviyar/assets/81194849/a2d66b8a-4211-40a1-a972-7ba667b96696)
+![Dylan Viyar Blue Header Cursive](https://github.com/dylanviyar/dylanviyar/assets/81194849/c85c3a13-87e3-494b-901f-1efa8a8b9d93)
 
 
 ## About Me 👋🏽
