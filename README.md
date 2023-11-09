@@ -4,7 +4,7 @@
 
 
 ## About Me 👋🏽
-- Beginning my journey in analytics, data viz and data-driven decision making
+- Beginning my journey in analytics, data visualization and data-driven decision making
 - Graduated from the University of California, San Diego with a Bachelor of Science in Applied Mathematics
 - A driven self-starter eager to learn and dive deeper in the world of exploratory data analysis
 - My favorite part of data analysis is channeling my inner detective searching for a "big aha" moment in data exploration!
