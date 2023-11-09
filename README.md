@@ -17,7 +17,7 @@
 - Python
 
 ## My Projects ✅
-- View some of my completed work [here](https://github.com/dylanviyar/My-Portfolio)
+- View some of my data analysis work [here](https://github.com/dylanviyar/My-Portfolio)
 
 ## Let's Connect! 💫
 - dviyar@ucsd.edu
